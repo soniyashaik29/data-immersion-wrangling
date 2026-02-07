@@ -30,4 +30,4 @@ The dataset used is Tesla stock data (2010–2025). The goal is to identify and 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/soniyashaik29/data-immersion-project.git
+   git clone https://github.com/soniyashaik29/data-immersion-wrangling-project.git
