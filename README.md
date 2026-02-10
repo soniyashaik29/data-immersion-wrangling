@@ -18,6 +18,7 @@ The dataset used is Tesla stock data (2010–2025). The goal is to identify and 
   - `data_dictionary.md` → explains dataset columns
   - `README.md` → project overview
 - **LinkedIn Video**: 3–5 min walkthrough of data issues and cleaning process.
+https://www.linkedin.com/posts/soniya-shaik-8191b9329_apexplanet-datascience-datawrangling-ugcPost-7426156935864864768-lMYW?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFLKGFUBb5oJWp6xIyEd-vCN-_VILW8k1UQ&utm_campaign=copy_link
 
 ---
 
